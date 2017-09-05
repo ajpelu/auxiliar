@@ -19,4 +19,4 @@ install_github("ajpelu/auxiliar")
 Author
 ------
 
-Antonio J. Pérez-Luque \[@ajpelu\](<http://twitter.com/ajpelu>)
+Antonio J. Pérez-Luque [@ajpelu](http://twitter.com/ajpelu)
