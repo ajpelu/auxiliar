@@ -3,7 +3,7 @@ Title: Auxiliar R functions (miscellaneous)
 Version: 0.1.0
 Date: 2017-08-30
 Authors@R: person('Antonio J', 'Perez-Luque', email='ajpelu@gmail.com', role =c('aut', 'cre'))
-Description: A compillation of auxiliar R functions that I frequently use and I want to store them. It's more a way to prevent my bad memory than anyhing else
+Description: A compillation of auxiliar R functions that I frequently use and I want to store them. It's more a way to prevent my bad memory than anyhing else.
 Depends: R (>= 3.0.0)
 Imports:
   dplyr, 
