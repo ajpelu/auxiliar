@@ -21,10 +21,10 @@
 #' \item \code{lev_stat} value of the Levene statistic
 #' \item \code{lev_pvalue} the p-value for the test}
 #'
-#' @example
-#' \dontrun{
+#' @examples \dontrun{
 #' factores <- c('disturb_year', 'site', 'interaction(disturb_year, site)')
-#' homogetest(resp_var = 'rs', factores = factores, df = evires)}
+#' homogetest(resp_var = 'rs', factores = factores, df = evires)
+#' }
 
 homogetest <- function(resp_var, factores, df){
 
@@ -49,3 +49,4 @@ homogetest <- function(resp_var, factores, df){
   return(out_factores)
 
 }
+

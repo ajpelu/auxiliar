@@ -31,3 +31,9 @@ groups (\code{\link[car]{leveneTest}}) and Fligner-Killeen Test of
 Homogeneity of Variances (\code{\link[stats]{fligner.test}} for each of
 the variables included in \code{factores} vector.
 }
+\examples{
+\dontrun{
+factores <- c('disturb_year', 'site', 'interaction(disturb_year, site)')
+homogetest(resp_var = 'rs', factores = factores, df = evires)
+}
+}
