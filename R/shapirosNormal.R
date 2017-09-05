@@ -2,7 +2,7 @@
 #'
 #' Compute the normality of a subset of data. The function virtually splits the
 #' data into groups (defined by \code{factor_vars}) and compute the normality of
-#'  each group using a shapiro test (see \code{\link[stats]{shapiro.test})
+#'  each group using a shapiro test (see \code{\link[stats]{shapiro.test}})
 #'
 #' @param df A \code{dataframe} object with a response variable and one or more
 #' independent variables
