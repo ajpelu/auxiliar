@@ -1,11 +1,13 @@
 Package: auxiliar
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Auxiliar R functions (miscellaneous)
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Antonio J Perez-Luque <ajpelu@gmail.com>
+Maintainer: Antonio J Perez-Luque <ajpelu@gmail.com>
+Description: A compillation of auxiliar R functions that I frequently use and I
+    want to store them!! It's more a way to prevent my bad memory than anyhing 
+    else
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/ajpelu/auxiliar/ 
