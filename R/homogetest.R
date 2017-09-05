@@ -24,8 +24,7 @@
 #' @example
 #' \dontrun{
 #' factores <- c('disturb_year', 'site', 'interaction(disturb_year, site)')
-#' homogetest(resp_var = 'rs', factores = factores, df = evires)
-#' }
+#' homogetest(resp_var = 'rs', factores = factores, df = evires)}
 
 homogetest <- function(resp_var, factores, df){
 
