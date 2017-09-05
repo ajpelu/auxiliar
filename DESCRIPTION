@@ -9,7 +9,8 @@ Description: A compillation of auxiliar R functions that I frequently use and I
     else
 Depends: 
   R (>= 2.10),
-  dplyr 
+  dplyr,
+  car
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

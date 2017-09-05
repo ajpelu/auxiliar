@@ -20,11 +20,10 @@ A \code{data frame} with several variables:
 \itemize{
 \item \code{statistic} is the value of the Shapiro-Wilk statistic
 \item \code{p_value} an approximate p-value for the test. See
-\code{\link[stats]{shapiro.test}}
-}
+\code{\link[stats]{shapiro.test}}}
 }
 \description{
-Compute the normality of a subset of data. The function split the data into
-groups (defined by \code{factor_vars}) and compute the normality of each
-group using a shapiro test
+Compute the normality of a subset of data. The function virtually splits the
+data into groups (defined by \code{factor_vars}) and compute the normality of
+ each group using a shapiro test (see \code{\link[stats]{shapiro.test}})
 }
