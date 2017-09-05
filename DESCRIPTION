@@ -4,9 +4,8 @@ Title: Auxiliar R functions (miscellaneous)
 Version: 0.1.0
 Author: Antonio J Perez-Luque <ajpelu@gmail.com>
 Maintainer: Antonio J Perez-Luque <ajpelu@gmail.com>
-Description: A compillation of auxiliar R functions that I frequently use and I
-    want to store them!! It's more a way to prevent my bad memory than anyhing 
-    else
+Description: A compillation of auxiliar R functions that I frequently use and I 
+want to store them. It's more a way to prevent my bad memory than anyhing else
 Depends: R (>= 2.10)
 Imports:
   dplyr, 
