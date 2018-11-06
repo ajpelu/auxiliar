@@ -20,3 +20,8 @@ Author
 ------
 
 Antonio J. Pérez-Luque [@ajpelu](http://twitter.com/ajpelu)
+
+License
+------ 
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details. 
