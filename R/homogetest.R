@@ -20,6 +20,7 @@
 #' \item \code{fk_pvalue} the p-value for the test
 #' \item \code{lev_stat} value of the Levene statistic
 #' \item \code{lev_pvalue} the p-value for the test}
+#' @export
 #'
 #' @examples \dontrun{
 #' factores <- c('disturb_year', 'site', 'interaction(disturb_year, site)')
